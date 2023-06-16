@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "76ZRphIgv7v849RWHe3RjmxTZv+NXpyrAN+FJx3CiVStuDMt5LNhynuSRkk7b+PZyUO3NtDlV+iU0qtW5vWigw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CH164153\\source\\repos\\TestPdfApp\\TestPdfApp\\TestPdfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CH164153\\.nuget\\packages\\grapecity.documents.imaging\\6.1.3\\grapecity.documents.imaging.6.1.3.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\grapecity.documents.pdf\\6.1.3\\grapecity.documents.pdf.6.1.3.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\portable.bouncycastle\\1.8.2\\portable.bouncycastle.1.8.2.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\CH164153\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://toolbox/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
