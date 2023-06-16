@@ -61,6 +61,8 @@ namespace TestPdfApp {
       string text = "The quick brown fox jumps over the lazy dog";
       for (int i = 0; i <= numIter; i++) {
         RectangleF rect = new RectangleF(10, yOffset + i * (boxHeight + 5), 200, boxHeight);
+        GrapeCity.Documents.Drawing.Pen gcPen = new GrapeCity.Documents.Drawing.Pen(line.Color, line.Width);
+        pdfGraphics.DrawRectangle(rect, gcPen);
         pdfGraphics.DrawString(text, textFormat, rect);
       }
 
